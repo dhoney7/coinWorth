@@ -23,7 +23,6 @@ html, body {
 }
 
 #root {
-  height: 100%;
   width: 100%;
   overflow: hidden; /* This will prevent the scrollbar from showing */
 }
